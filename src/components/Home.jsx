@@ -10,7 +10,7 @@ function Home() {
     <>
     <div>
     <Slider/>
-    <h2 className=" my-5 mx-auto text-center ">Our Latest Products</h2>
+    <h2 className="  mx-auto text-center ">Our Latest Products</h2>
       <Card></Card>
       <Footer/>
     </div>

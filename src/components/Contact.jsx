@@ -59,15 +59,15 @@ function Contact() {
       <div className="row mt-5">
         <div className="col-md-4 text-center">
           <h5>Our Address</h5>
-          <p>123 Main Street, Anytown, USA</p>
+          <p>Lucknow, U.P. India</p>
         </div>
         <div className="col-md-4 text-center">
           <h5>Call Us</h5>
-          <p>(123) 456-7890</p>
+          <p>(+91) 7408751873 </p>
         </div>
         <div className="col-md-4 text-center">
           <h5>Email Us</h5>
-          <p>info@example.com</p>
+          <p>dailyfyhub@gmail.com</p>
         </div>
       </div>
     </div>
@@ -75,4 +75,4 @@ function Contact() {
   )
 }
 
-export default Contact
+export default Contact                                                                                    

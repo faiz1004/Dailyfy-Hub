@@ -12,16 +12,16 @@ function Slider() {
     <>
      <Carousel className=' mt-3 text-dark'>
       <Carousel.Item className='slider'>
-        <img src={img1} alt="" style={{width:"100%", height:"100%", objectFit:"fit"}}/>
+        <img src={img1} alt="" style={{width:"100%", height:"87%"}}/>
       </Carousel.Item>
       <Carousel.Item className='slider'>
-      <img src={img2} alt="" style={{width:"100%", height:"100%"}} />
+      <img src={img2} alt="" style={{width:"100%", height:"87%"}} />
       </Carousel.Item>
       <Carousel.Item className='slider' >
-      <img src={img3} alt="" style={{width:"100%", height:"100%"}} />
+      <img src={img3} alt="" style={{width:"100%", height:"87%"}} />
       </Carousel.Item>
       <Carousel.Item className='slider' >
-      <img src={img4} alt="" style={{width:"100%", height:"100%"}} />
+      <img src={img4} alt="" style={{width:"100%", height:"87%"}} />
       </Carousel.Item>
     </Carousel>
     </>
